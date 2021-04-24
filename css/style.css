@@ -725,10 +725,7 @@ button:focus{
     Family
 -------------------------------------------------------------------*/
 
-.family-box{
-	padding: 70px 0px;
-	background: url(../images/ptn-bg.jpg);
-}
+
 
 .single-team-member {
     position: relative;
